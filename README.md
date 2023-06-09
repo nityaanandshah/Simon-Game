@@ -32,6 +32,7 @@ Make sure to include the jQuery library by adding the following script tag in th
 
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+'''
 
 ## Getting Started
 
